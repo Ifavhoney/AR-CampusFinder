@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{AEAED014-FB24-0F4F-05B7-1669F9FE1120}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/ShowBlue.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/toggleBtn.cs">
     <Files>
-      <File FileName="Assets/Scenes/ShowBlue.cs" Line="11" Column="15" />
+      <File FileName="Assets/Scenes/ShowBlue.cs" Line="22" Column="10" />
+      <File FileName="Assets/Scenes/toggleBtn.cs" Line="7" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -9,7 +10,7 @@
           <Node name="CampusFinder" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scenes" expanded="True">
-                <Node name="ShowBlue.cs" selected="True" />
+                <Node name="toggleBtn.cs" selected="True" />
               </Node>
             </Node>
           </Node>

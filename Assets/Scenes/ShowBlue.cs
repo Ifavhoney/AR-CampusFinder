@@ -6,13 +6,14 @@ using UnityEngine.UI;
 public class ShowBlue : MonoBehaviour
 {
     //3
-   // [SerializeField] GameObject[] targets;
+   //   [SerializeField] GameObject[] targets;
     public GameObject currentTarget;
     int targetIndex;
 
     //Object 
-    public void changeTarget()
+    public void showBlue()
     {
+        Debug.Log("GOT IT!");
         //3 is greater than the index (0)
         if(currentTarget != null)
         {

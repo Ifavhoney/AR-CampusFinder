@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scenes\ShowBlue.cs" />
+    <Compile Include="Assets\Scenes\toggleBtn.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/jason/Downloads/games/CampusFinder/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
