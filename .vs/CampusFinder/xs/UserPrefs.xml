@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AEAED014-FB24-0F4F-05B7-1669F9FE1120}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/ShowBlue.cs">
+    <Files>
+      <File FileName="Assets/Scenes/ShowBlue.cs" Line="11" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CampusFinder" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True">
+                <Node name="ShowBlue.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="850c616c-6c40-4548-ae04-f3fdcec55680" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
